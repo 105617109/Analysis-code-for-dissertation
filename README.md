@@ -54,21 +54,3 @@ Shapefile note: place all shapefile components (.shp, .shx, .dbf, .prj, .cpg) to
 	•	Borough/LAD coverage and FS (Fairness Score) tables (CSV).
 	•	Choropleth maps of FS (PNG/PDF) with quantile breaks.
 	•	Sensitivity summaries (if enabled in the notebook).
-
-⸻
-
-🔒 Data and licensing
-
-This repository includes derived tables needed to reproduce figures and maps. Some source datasets may be under third-party licences and are therefore not included. Where external data are required, code cells are annotated with !!! to indicate where/how to acquire them. Please respect original licences.
-
-⸻
-
-🤝 Acknowledgements
-
-Supervision by Dr Duncan Hay (weekly meetings and methodological guidance) greatly improved the quality and focus of this work.
-
-⸻
-
-📣 How to cite
-
-Please cite the dissertation if you use these ideas or outputs. A Harvard-style bibliography is provided in the thesis.
